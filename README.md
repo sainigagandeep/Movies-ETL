@@ -28,9 +28,7 @@ The Kaggle and rating data were then merged with the Wikipedia movies DataFrame.
 
 ### Load the data to a PostgreSQL Movie Database
 <br/>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/68669675/93714176-9c6dec00-fb26-11ea-976c-c7d21e2fee0b.png"> 
-</p>
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/68669675/93714179-9d9f1900-fb26-11ea-815d-d14fee9755a4.png"> 
 </p>
